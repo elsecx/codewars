@@ -1,4 +1,4 @@
-// day 10/366
+// day 11/366
 // Move Zeros - https://www.codewars.com/kata/55c098aa8468f3b9030000f1
 
 const move_zeros = (arrNum, isRight = true) => {
